@@ -10,5 +10,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>EcommerceApi.Models.DbEcommerce</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\Kapero\Desktop\Zad rekru\EcommerceApi\Properties\PublishProfiles\ecommerce-api-kfoj - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

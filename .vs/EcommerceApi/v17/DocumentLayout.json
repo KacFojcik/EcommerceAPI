@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Kapero\\Desktop\\Zad rekru\\EcommerceApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|c:\\users\\kapero\\desktop\\zad rekru\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|c:\\users\\kapero\\desktop\\zad rekru\\ecommerceapi\\models\\dbecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|solutionrelative:models\\dbecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|c:\\users\\kapero\\desktop\\zad rekru\\ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|c:\\users\\kapero\\desktop\\zad rekru\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCBDA15F-D151-4C25-AD14-9E6CB0AE3001}|EcommerceApi.csproj|c:\\users\\kapero\\desktop\\zad rekru\\ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Kapero\\Desktop\\Zad rekru\\EcommerceApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:36:00.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T14:36:00.134Z"
             },
             {
               "$type": "Document",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "Controllers\\OrdersController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:34:52.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T14:34:52.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrderProduct.cs",
               "DocumentMoniker": "C:\\Users\\Kapero\\Desktop\\Zad rekru\\EcommerceApi\\Models\\OrderProduct.cs",
               "RelativeDocumentMoniker": "Models\\OrderProduct.cs",
@@ -76,12 +74,11 @@
               "RelativeToolTip": "Models\\OrderProduct.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:48:22.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:48:22.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Kapero\\Desktop\\Zad rekru\\EcommerceApi\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:43:01.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:43:01.38Z"
             },
             {
               "$type": "Document",
@@ -102,12 +98,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:29:23.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:29:23.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DbEcommerce.cs",
               "DocumentMoniker": "C:\\Users\\Kapero\\Desktop\\Zad rekru\\EcommerceApi\\Models\\DbEcommerce.cs",
               "RelativeDocumentMoniker": "Models\\DbEcommerce.cs",
@@ -120,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kapero\\Desktop\\Zad rekru\\EcommerceApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Kapero\\Desktop\\Zad rekru\\EcommerceApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABaAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T10:18:13.616Z",
               "EditorCaption": ""
