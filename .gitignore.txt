@@ -1,0 +1,11 @@
+# Pliki i foldery VS
+.vs/
+*.user
+*.suo
+
+# Kompilacja .NET
+bin/
+obj/
+
+# Inne śmieci
+*.log
