@@ -4,7 +4,7 @@ Projekt wykorzystuje GitHub Actions do automatycznego budowania aplikacji po ka≈
 
 Konfiguracja
 
-Plik workflow: `.github/workflows/ci.yml`
+Plik workflow: `.github/workflows/build.yml`
 
 Proces
 
