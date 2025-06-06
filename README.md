@@ -16,3 +16,27 @@ Proces
    - Przywracanie zależności
    - Budowanie projektu
    - (Opcjonalnie) Uruchamianie testów
+   
+Dostęp do aplikacji
+Aplikacja została wdrożona na platformie Azure App Service i jest publicznie dostępna pod adresem:
+
+https://ecommerce-api-kfoj.azurewebsites.net
+(dokumentacja Swagger)
+
+Usługi Azure użyte w projekcie
+Azure App Service – hostowanie aplikacji Web API (ASP.NET Core)
+
+Azure SQL Database – przechowywanie danych (zamówienia, produkty)
+
+App Service Plan (Free) – plan taryfowy hostingowy
+
+
+Konfiguracja środowiska
+Connection string do bazy danych przechowywany jako Application Setting w Azure (DefaultConnection)
+
+Środowisko produkcyjne: ASPNETCORE_ENVIRONMENT = Production
+
+Swagger działa domyślnie pod /swagger, przekierowanie z / jest zrealizowane programowo
+
+Aplikacja korzysta z Entity Framework Core 8 i SQL Server
+

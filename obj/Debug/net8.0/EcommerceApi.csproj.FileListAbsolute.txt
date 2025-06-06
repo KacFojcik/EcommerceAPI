@@ -282,3 +282,4 @@ C:\Users\Kapero\Desktop\Zad rekru\EcommerceApi\obj\Debug\net8.0\refint\Ecommerce
 C:\Users\Kapero\Desktop\Zad rekru\EcommerceApi\obj\Debug\net8.0\EcommerceApi.pdb
 C:\Users\Kapero\Desktop\Zad rekru\EcommerceApi\obj\Debug\net8.0\EcommerceApi.genruntimeconfig.cache
 C:\Users\Kapero\Desktop\Zad rekru\EcommerceApi\obj\Debug\net8.0\ref\EcommerceApi.dll
+C:\Users\Kapero\Desktop\Zad rekru\EcommerceApi\obj\Debug\net8.0\EcommerceApi.sourcelink.json
